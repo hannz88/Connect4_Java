@@ -20,7 +20,7 @@ To play the game, simply click on this [link](https://replit.com/@hannz88/Connec
 
 ## How to play
 ### 1. Set a character to represent player
-The setup is simpler compared to Obliteration and Battleship. Firstly, you'll be asked to set a SINGLE alpha-numerical character to represent you the player on the board.
+The setup is simpler compared to [Obliteration](https://replit.com/@hannz88/ObliterationGameJava) and [Battleship](https://replit.com/@hannz88/BattleshipGameJava). Firstly, you'll be asked to set a SINGLE alpha-numerical character to represent you the player on the board.
 
 <p align="center">
     <img src="https://github.com/hannz88/Connect4_Java/blob/main/Images/ask_player_symbol.png" alt="Key in characters to represent players">
