@@ -16,7 +16,8 @@ public class Game {
 
     public Game(Scanner sc) throws Exception{
         // Welcome
-        System.out.println("Welcome to Connect 4");
+        System.out.println("Welcome to Connect 4.");
+        System.out.println("The objective: Make consecutive 4 tokens diagonally, vertically and horizontally!");
         // Ask player for a symbol
         this.playerChooseSymbol(sc);
         player = new Player(this.playerSymbol, this.colSize);
