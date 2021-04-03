@@ -16,7 +16,7 @@ This is a Connect 4 I wrote using Java. The objective of the game is to make 4 c
 
 
 ## Where
-To play the game, simply click on this [link](https://repl.it/@hannz88/ObliterationGameJava). It'll bring you to a repl page. Click  play button and follow the prompts.
+To play the game, simply click on this [link](https://replit.com/@hannz88/Connect4Java). It'll bring you to a repl page. Click  play button and follow the prompts.
 
 ## How to play
 ### 1. Set a character to represent player
